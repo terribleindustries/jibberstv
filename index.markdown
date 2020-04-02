@@ -3,9 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: Not Live Yet
 ---
-
-#  Not Live Yet
 
 The stream is not live yet. Check back in closer to the go-live time.
 
